@@ -1,4 +1,5 @@
 # training data
 archive/*
 LaTex_data/
+*.json
 .vscode/
