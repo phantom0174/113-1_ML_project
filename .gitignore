@@ -1,7 +1,7 @@
 # training data
 PRINTED_TEX_230k/*
-archive/*
+archive/
 *.zip
 image_formula_mapping.json
-data/*
-test/*
+train/
+test/
