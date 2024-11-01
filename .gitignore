@@ -3,5 +3,6 @@ archive/*
 LaTex_data/
 *.json
 .vscode/
+model.pth
 model.py
 get_loader.py
