@@ -1,4 +1,4 @@
-# training data
+# ph0
 PRINTED_TEX_230k/*
 archive/
 *.zip
@@ -6,6 +6,7 @@ image_formula_mapping.json
 train/
 test/
 
+# bebe
 archive/*
 LaTex_data/
 *.json
