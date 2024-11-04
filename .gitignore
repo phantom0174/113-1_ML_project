@@ -5,3 +5,10 @@ archive/
 image_formula_mapping.json
 train/
 test/
+
+archive/*
+LaTex_data/
+*.json
+.vscode/
+model.py
+get_loader.py
