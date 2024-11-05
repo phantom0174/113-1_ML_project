@@ -4,5 +4,6 @@ LaTex_data/
 *.json
 .vscode/
 model.pth
+model.checkpoint.pth
 model.py
 get_loader.py
