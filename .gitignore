@@ -1,6 +1,10 @@
 # training data
 archive/*
+100k/
+230k/
 LaTex_data/
+
+# others
 *.json
 .vscode/
 model.pth
