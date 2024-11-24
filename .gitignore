@@ -7,7 +7,6 @@ LaTex_data/
 # others
 *.json
 .vscode/
-model.pth
-model_checkpoint.pth
+*.pth
 model.py
 get_loader.py
