@@ -16,3 +16,4 @@ LaTex_data/
 *.pth
 model.py
 get_loader.py
+
