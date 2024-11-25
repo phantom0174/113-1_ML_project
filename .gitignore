@@ -5,11 +5,15 @@ archive/
 image_formula_mapping.json
 train/
 test/
-
-# bebe
+# bibby
 archive/*
+100k/
+230k/
 LaTex_data/
+# others
 *.json
 .vscode/
+*.pth
 model.py
 get_loader.py
+
