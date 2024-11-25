@@ -1,12 +1,19 @@
-# training data
+# ph0
+PRINTED_TEX_230k/*
+archive/
+*.zip
+image_formula_mapping.json
+train/
+test/
+# bibby
 archive/*
 100k/
 230k/
 LaTex_data/
-
 # others
 *.json
 .vscode/
 *.pth
 model.py
 get_loader.py
+
