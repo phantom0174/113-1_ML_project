@@ -1,5 +1,17 @@
+## Our model
+### Preprocess data
 
+Before starting the training, make sure the following folders and files are set up:
+- **100k**: Directory containing the dataset files. You should have the following files:
+  - `test.pkl`
+  - `train.pkl`
+  - `validate.pkl`
+- **230k.json**: file of vocab json mapping
 
+### Train model
+Run all **train_model_100k.ipynb**. The model will be saved as model_checkpoint.pth of every epoch.
+
+## Luo's & Luo's modified model
 ### Preprocess data
 Before starting the training, make sure the following folders and files are set up:
 
